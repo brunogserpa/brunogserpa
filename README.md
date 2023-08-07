@@ -1,5 +1,3 @@
-Bruno Granella Serpa
-
 Simulation Software Engineer @ OptimumG (2021-Present)  
 -Working actively in the development of OptimumTire2  
 -FrontEnd (Qt6) and BackEnd
